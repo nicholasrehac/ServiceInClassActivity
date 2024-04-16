@@ -2,19 +2,19 @@
 <menu xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-        android:id="@+id/play_button"
+        android:id="@+id/play_menu_button"
         android:icon="@drawable/play_arrow"
         android:title="Item"
         app:showAsAction="always" />
     <item
-        android:id="@+id/pause_button"
+        android:id="@+id/pause_menu_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:icon="@drawable/play_pause"
         android:title="Item"
         app:showAsAction="always" />
     <item
-        android:id="@+id/stop_button"
+        android:id="@+id/stop_menu_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:icon="@drawable/stop"
